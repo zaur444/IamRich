@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack {
-            Color(.systemTeal)
+            Color(.systemTeal) 
                 .edgesIgnoringSafeArea(.all)
             VStack {
                 Text("I Am Rich")
